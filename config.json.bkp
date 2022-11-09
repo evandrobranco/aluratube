@@ -1,0 +1,26 @@
+{
+    "name": "Evandro Pereira Branco (Developer)",
+    "job": "Software Developer",
+    "github": "evandrobranco",
+    "playlists": {
+        "jogos": [
+            {
+                "title": "Algum titulo",
+                "url": "url",
+                "thumb": "thumbnail do video"
+            },
+            {
+                "title": "Video 02 Algum titulo",
+                "url": "url",
+                "thumb": "thumbnail do video"
+            }
+        ],
+        "front-end": [
+            {
+                "title": "Algum titulo",
+                "url": "url",
+                "thumb": "thumbnail do video"
+            }
+        ]
+    }
+}
